@@ -22,7 +22,7 @@ Currently, I’m working on:
 - [**SnakeGame**](https://github.com/michaelserdar/python-snake-game) – Python snake game made followin the 100 days of Python course  
 - [**HelloSockets**](https://github.com/michaelserdar/simple-chat-app) – Python client/server chat app (pytest-tested, error handling)  
 - [**TupleSpace**](#) – C++ concurrency model with mutexes and condition variables  
-- [**Algorithm Projects**](#) – Exploration of different Algorithms (Big-O, GCD, DP vs Greedy, etc.)  
+- [**Algorithm Projects**](https://github.com/michaelserdar/algorithm-projects) – Exploration of different Algorithms (Big-O, GCD, DP vs Greedy, etc.)  
 
 ---
 
