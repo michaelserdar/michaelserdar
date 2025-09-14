@@ -19,7 +19,7 @@ Currently, I’m working on:
 ---
 
 ## 📌 Featured Projects  
-- [**HippoExchange**](#) – CRUD API in .NET with Firestore backend + frontend served on Google Cloud  
+- [**SnakeGame**](https://github.com/michaelserdar/python-snake-game) – Python snake game made followin the 100 days of Python course  
 - [**HelloSockets**](https://github.com/michaelserdar/simple-chat-app) – Python client/server chat app (pytest-tested, error handling)  
 - [**TupleSpace**](#) – C++ concurrency model with mutexes and condition variables  
 - [**Algorithm Projects**](#) – Teaching-focused assignments (Big-O, GCD, DP vs Greedy, etc.)  
