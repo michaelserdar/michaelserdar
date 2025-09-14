@@ -41,7 +41,7 @@ Currently, I’m working on:
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/michael-serdar-55344984)    
+- 💼 [LinkedIn](https://www.linkedin.com/in/michael-serdar-55344984)    
 - ✉️ Email: michael.robert.serdar@gmail.com 
 
 ---
